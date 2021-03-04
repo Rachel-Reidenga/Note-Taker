@@ -15,9 +15,9 @@ The application’s front end had already been created. It was my job to build t
 
 ## Images
 
-![Home](../assets/../Note-Taker/public/assets/screenshots/Home.png)
+![Home](../assets/screenshots/Home.png)
 
-![Notes](../assets/../Note-Taker/public/assets/screenshots/Notes.png)
+![Notes](../assets/screenshots/Notes.png)
 
 
 ## Technologies
@@ -52,7 +52,7 @@ Link to repo on [GitHub](https://github.com/Rachel-Reidenga/Note-Taker/tree/mast
 
 [Heroku](https://dashboard.heroku.com/apps/)
 
-Shout out to Tanetta J, Monica H and Paul C
+Shout out to Tanetta J, Monica H, Paul C & Alistair R
 
 
 ### Questions
