@@ -15,9 +15,9 @@ The application’s front end had already been created. It was my job to build t
 
 ## Images
 
-![Home](../assets/screenshots/Home.png)
+![Home](../Note-Taker/public/assets/screenshots/Home%202021-03-03%20at%209.52.59%20PM.png)
 
-![Notes](../assets/screenshots/Notes.png)
+![Notes](../Note-Taker/public/assets/screenshots/Notes%202021-03-03%20at%209.52.43%20PM.png)
 
 
 ## Technologies
