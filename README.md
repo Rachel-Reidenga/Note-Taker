@@ -15,9 +15,9 @@ The application’s front end had already been created. It was my job to build t
 
 ## Images
 
-![Home](../Note-Taker/public/assets/screenshots/Home%202021-03-03%20at%209.52.59%20PM.png)
+![Home](.assets/screenshots/../../public/assets/screenshots/Home%202021-03-03%20at%209.52.59%20PM.png)
 
-![Notes](../Note-Taker/public/assets/screenshots/Notes%202021-03-03%20at%209.52.43%20PM.png)
+![Notes](.assets/screenshots/../../public/assets/screenshots/Notes%202021-03-03%20at%209.52.43%20PM.png)
 
 
 ## Technologies
@@ -29,7 +29,7 @@ The application’s front end had already been created. It was my job to build t
 * fs
 
 ## Usage
-A user can quickly generate a team profile with multiple employees includding managers, engineers and interns. The application is clean and simple keeping all the information organized.
+A user is able to write and save notes so that they can organize their thoughts and keep track of tasks they need to complete. The user is also able to delete notes as they complete them.
 
 ## Deployment
 
