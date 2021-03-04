@@ -33,7 +33,7 @@ A user is able to write and save notes so that they can organize their thoughts 
 
 ## Deployment
 
-* [Heroku]()
+* [Heroku](https://whispering-reef-07301.herokuapp.com/)
 
 Link to repo on [GitHub](https://github.com/Rachel-Reidenga/Note-Taker/tree/master/)
 
