@@ -15,14 +15,10 @@ The application’s front end had already been created. It was my job to build t
 
 ## Images
 
-![Home](../Note-Taker/public/assets/screenshots/Home.png)
+![Home](../assets/../Note-Taker/public/assets/screenshots/Home.png)
 
-![Notes](../Note-Taker/public/assets/screenshots/Notes.png)
+![Notes](../assets/../Note-Taker/public/assets/screenshots/Notes.png)
 
-
-
-* [Heroku]()
-  
 
 ## Technologies
 
@@ -37,9 +33,9 @@ A user can quickly generate a team profile with multiple employees includding ma
 
 ## Deployment
 
-Link to [Video]()
+* [Heroku]()
 
-Link to repo on [GitHub](https://github.com/Rachel-Reidenga/Team-Profile-Generator/)
+Link to repo on [GitHub](https://github.com/Rachel-Reidenga/Note-Taker/tree/master/)
 
 
 ### Contributing
